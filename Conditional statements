@@ -1,0 +1,16 @@
+var genderType="female"
+function printGender()
+{
+    let colour='brown'
+    if(true)
+    {
+        var age=30
+        if(genderType=="female"){
+        let colour='pink'
+        console.log('print the colour',colour);
+}
+        console.log('print the colour',colour);
+    }
+}
+    printGender()
+    console.log('print the gender type',genderType);
