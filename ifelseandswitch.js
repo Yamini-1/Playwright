@@ -24,7 +24,7 @@ function runtests(testtype)
         console.log('the testtype is regression');
         break
     default:
-        console.log('the testtype is smoke');
+        console.log('the testtype is functional');
         break            
     }
 }
